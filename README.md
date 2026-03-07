@@ -1,4 +1,4 @@
-# QA Portfolio — Sergey Sitnikov
+# QA Portfolio - Sergey Sitnikov
 
 > Junior QA Engineer | Python | pytest | Selenium  
 > Student at GUAP (Saint Petersburg, Russia)
