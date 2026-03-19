@@ -30,5 +30,5 @@ schedule ───────────────> subjects
 
 ## Где попрактиковаться онлайн
 
-- [db-fiddle.com](https://www.db-fiddle.com) — PostgreSQL в браузере
-- [sqliteonline.com](https://sqliteonline.com) — SQLite, без регистрации
+- [db-fiddle.com](https://www.db-fiddle.com) - PostgreSQL в браузере
+- [sqliteonline.com](https://sqliteonline.com) - SQLite, без регистрации
