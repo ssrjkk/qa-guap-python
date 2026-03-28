@@ -1,6 +1,6 @@
 # QA Engineer (Python) - Sergey Sitnikov
 
-> QA Engineer - Python - pytest - Selenium  
+> QA Automation Engineer - Python - pytest - Selenium  
 > Student at GUAP (Saint Petersburg, Russia)
 
 Учусь на 2 курсе ГУАП по направлению «Прикладная информатика».  
