@@ -1,5 +1,17 @@
 # Guap.ru Test Framework (Python)
 
+![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-8.1-green?logo=pytest&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-4.x-orange)
+![k6](https://img.shields.io/badge/k6-load%20testing-green)
+![Docker](https://img.shields.io/badge/Docker-ready-blue?logo=docker&logoColor=white)
+![CI](https://github.com/ssrjkk/guap-test-framework-python/actions/workflows/ci.yml/badge.svg)
+![Coverage](https://img.shields.io/badge/coverage-65%25-yellow)
+![Tests](https://img.shields.io/badge/tests-API%2BUI%2Bload-brightgreen)
+![Run](https://img.shields.io/badge/run-~45sec-blue)
+![Last Commit](https://img.shields.io/github/last-commit/ssrjkk/guap-test-framework-python)
+![License](https://img.shields.io/badge/license-MIT-yellow)
+
 > 30+ API/UI-тестов | ⚡ Запуск: ~30 сек | 🛡 Стабильность: 95% | 🐳 Docker-ready
 
 Фреймворк для проверки контрактов и бизнес-логики guap.ru: API + UI + DB.
